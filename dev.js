@@ -1,3 +1,1 @@
-const a = {
-  a: 4,
-};
+const a = 1
