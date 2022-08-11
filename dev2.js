@@ -8,3 +8,4 @@ const test3 = 3
 
 const test4 = 4
 const test5 = 5
+const test6 = 6
